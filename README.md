@@ -1,2 +1,2 @@
-# github_api_gateway
+# Github API Gateway
 A service to integrate Github APIs.
